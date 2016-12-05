@@ -17,7 +17,6 @@ from MainWindow import MainForm
 ACTIVATION_KEY = ''
 
 
-
 def main():
     app = QApplication(sys.argv)
     form = LoginForm()
